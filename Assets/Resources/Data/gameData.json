@@ -1,0 +1,115 @@
+﻿[{
+    "upgrades": [
+      {
+        "upgradesLevel": [
+          {
+            "count": 1,
+            "gold": 0
+          },
+          {
+            "count": 1.5,
+            "gold": 100
+          },
+          {
+            "count": 2,
+            "gold": 200
+          },
+          {
+            "count": 2.5,
+            "gold": 400
+          },
+          {
+            "count": 3,
+            "gold": 800
+          }
+        ],
+        "type": 0
+      },
+      
+      
+      {
+        "upgradesLevel": [
+          {
+            "count": 3,
+            "gold": 0
+          },
+          {
+            "count": 2.8,
+            "gold": 150
+          },
+          {
+            "count": 2.5,
+            "gold": 300
+          },
+          {
+            "count": 2.2,
+            "gold": 600
+          },
+          {
+            "count": 2,
+            "gold": 1200
+          }
+        ],
+        "type": 1
+      },
+      
+      
+      {
+        "upgradesLevel": [
+          {
+            "count": 35,
+            "gold": 0
+          },
+          {
+            "count": 37,
+            "gold": 80
+          },
+          {
+            "count": 40,
+            "gold": 160
+          },
+          {
+            "count": 42,
+            "gold": 220
+          },
+          {
+            "count": 45,
+            "gold": 440
+          }
+        ],
+        "type": 2
+      },
+      
+      
+      {
+        "upgradesLevel": [
+          {
+            "count": 1,
+            "gold": 0
+          },
+          {
+            "count": 2,
+            "gold": 200
+          },
+          {
+            "count": 3,
+            "gold": 400
+          },
+          {
+            "count": 4,
+            "gold": 800
+          },
+          {
+            "count": 5,
+            "gold": 1600
+          }
+        ],
+        "type": 3
+      }
+      
+      
+    ],
+    "playerLive": 3,
+    "xpForKill": 1,
+    "goldForKill": 1
+}]

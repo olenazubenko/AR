@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f62f8ba49351ac4297ed47d3d9314ab, type: 3}
+  m_Name: SoConfig
+  m_EditorClassIdentifier: 
+  BulletPrefab: {fileID: 98075165490809459, guid: 03ef40719af0dc24d94cc8ed7414370c, type: 3}
+  MovePointerPrefab: {fileID: 98075165490809459, guid: fa079fc644d587e4da1f7221aa920e69, type: 3}
+  EnemyPrefab:
+  - {fileID: 100114, guid: 64228339575d99f4e994fd1785d57a25, type: 3}
+  - {fileID: 100114, guid: 7fae8be938091bb409c4389712527d33, type: 3}
+  - {fileID: 100114, guid: a9d07c6e16ba7ff4ba90528ff4ec30a3, type: 3}
+  - {fileID: 100114, guid: 4aa0fad9f1f18eb4b98aeec74721b4b2, type: 3}
+  - {fileID: 100114, guid: 9c5ec14d15f6ea14d8b54acef345c2c2, type: 3}
+  LevelPrefab:
+  - {fileID: 3517925223614141491, guid: ae636b652ab5a344d92a90012b192aba, type: 3}
+  - {fileID: 3517925223614141491, guid: a869c90b275439248a47e0d507ab9827, type: 3}
+  - {fileID: 3517925223614141491, guid: 028a36b8cf879d8468707ba35b2bf4f6, type: 3}
+  - {fileID: 3517925223614141491, guid: fce0c1c666f31bc46ac0d123d48485d6, type: 3}
+  - {fileID: 3517925223614141491, guid: 28be34e9236c0784b8f875af5b6f41ca, type: 3}
